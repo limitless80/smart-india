@@ -1,5 +1,5 @@
 - **`git config global user.email "email-id"`**  
-    Informing your Github email-id.
+    Informing your Git-hub email-id to repo.
 
 - **`git config global user.name "name"`**
     Informing the repository who are you.
