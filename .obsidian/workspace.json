@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "44a07314ac97a004",
+        "id": "215178a9998f7873",
         "type": "tabs",
         "children": [
           {
-            "id": "22413b761ce754b1",
+            "id": "909b10eb206d75d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The problem statement/The problem statement.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -87,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The problem statement/The problem statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The problem statement/The problem statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,11 +159,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "22413b761ce754b1",
+  "active": "be36b5093c01d6b4",
   "lastOpenFiles": [
     "Untitled.md",
-    "The problem statement/The problem statement.md",
     "Welcome.md",
+    "Untitled 1.md",
+    "The problem statement/The problem statement.md",
     "The problem statement",
     "Obsidian Vault/_AI_ML_/python/Django/DATAMODEL.md",
     "Obsidian Vault/_AI_ML_/python/Django/Create a Project and app.md",
@@ -195,7 +189,6 @@
     "Obsidian Vault/_AI_ML_/python/Seaborn.md",
     "Obsidian Vault/_AI_ML_/python/Scikit-learn.md",
     "Obsidian Vault/_AI_ML_/python/Pytorch.md",
-    "Obsidian Vault/Cloud Computing/AWS/ECS, Lambda, Batch, Lightsail.md",
     "Operating System",
     "Obsidian Vault/Cloud Computing/Google Cloud",
     "Obsidian Vault/Cloud Computing/Azure",
