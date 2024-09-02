@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dea2d50b35b65fee",
+            "id": "22413b761ce754b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian Vault/_AI_ML_/python/Django/To create login and signup.md",
+                "file": "The problem statement/The problem statement.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian Vault/_AI_ML_/python/Django/To create login and signup.md",
+                "file": "The problem statement/The problem statement.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian Vault/_AI_ML_/python/Django/To create login and signup.md",
+                "file": "The problem statement/The problem statement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian Vault/_AI_ML_/python/Django/To create login and signup.md"
+                "file": "The problem statement/The problem statement.md"
               }
             }
           },
@@ -162,11 +162,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dea2d50b35b65fee",
+  "active": "22413b761ce754b1",
   "lastOpenFiles": [
+    "Untitled.md",
+    "The problem statement/The problem statement.md",
+    "Welcome.md",
+    "The problem statement",
     "Obsidian Vault/_AI_ML_/python/Django/DATAMODEL.md",
     "Obsidian Vault/_AI_ML_/python/Django/Create a Project and app.md",
     "Obsidian Vault/_AI_ML_/python/Django/-DJANGO.md",
@@ -191,9 +196,6 @@
     "Obsidian Vault/_AI_ML_/python/Scikit-learn.md",
     "Obsidian Vault/_AI_ML_/python/Pytorch.md",
     "Obsidian Vault/Cloud Computing/AWS/ECS, Lambda, Batch, Lightsail.md",
-    "Obsidian Vault/Cloud Computing/AWS/ELB & ASG - Elastic Load Balancing & Auto Scaling Groups.md",
-    "Obsidian Vault/Cloud Computing/AWS/IAM - Identity and Access Management.md",
-    "Obsidian Vault/Cloud Computing/AWS/What is cloud computing.md",
     "Operating System",
     "Obsidian Vault/Cloud Computing/Google Cloud",
     "Obsidian Vault/Cloud Computing/Azure",
@@ -202,7 +204,6 @@
     "SIJ/Untitled.canvas",
     "SIJ",
     "SIJ",
-    "Obsidian Vault/_AI_ML_/python/python basics",
-    "Obsidian Vault/_AI_ML_/Math"
+    "Obsidian Vault/_AI_ML_/python/python basics"
   ]
 }
