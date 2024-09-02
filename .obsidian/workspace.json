@@ -11,8 +11,13 @@
             "id": "909b10eb206d75d1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,12 +127,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The problem statement/The problem statement.md"
+                "file": "Untitled.md"
               }
             }
           },
           {
-            "id": "bbcb0c6d3c8f0e30",
+            "id": "5ab90213b8e1bd0b",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -133,10 +140,10 @@
             }
           },
           {
-            "id": "ebba91667cfb360c",
+            "id": "ba259c370843a427",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "git-view",
               "state": {}
             }
           }
@@ -145,7 +152,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,15 +164,17 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be36b5093c01d6b4",
+  "active": "ba259c370843a427",
   "lastOpenFiles": [
     "Untitled.md",
+    "Untitled.canvas",
+    "The problem statement/The problem statement.md",
     "Welcome.md",
     "Untitled 1.md",
-    "The problem statement/The problem statement.md",
     "The problem statement",
     "Obsidian Vault/_AI_ML_/python/Django/DATAMODEL.md",
     "Obsidian Vault/_AI_ML_/python/Django/Create a Project and app.md",
@@ -188,7 +198,6 @@
     "Obsidian Vault/_AI_ML_/python/numpy.md",
     "Obsidian Vault/_AI_ML_/python/Seaborn.md",
     "Obsidian Vault/_AI_ML_/python/Scikit-learn.md",
-    "Obsidian Vault/_AI_ML_/python/Pytorch.md",
     "Operating System",
     "Obsidian Vault/Cloud Computing/Google Cloud",
     "Obsidian Vault/Cloud Computing/Azure",
