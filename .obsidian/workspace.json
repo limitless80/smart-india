@@ -11,12 +11,9 @@
             "id": "c92a4098fadcd908",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Git.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "1-Project description/Project tracking truck.md"
               }
             }
           }
@@ -87,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "1-Project description/Project tracking truck.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "1-Project description/Project tracking truck.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "1-Project description/Project tracking truck.md"
               }
             }
           },
@@ -170,15 +167,21 @@
   },
   "active": "c92a4098fadcd908",
   "lastOpenFiles": [
-    "Project description/Project tracking truck.md",
     "Git.md",
+    "Django/Basic/Create a Project and app.md",
+    "Django/Basic",
+    "Django/Basic/To create login and signup.md",
+    "Django/Basic/DATAMODEL.md",
+    "Django/Basic/-DJANGO.md",
+    "1-Project description/Project tracking truck.md",
+    "Django",
     "Project.md",
-    "Project description/Data for project/Pasted Image 20240903123403_912.png",
+    "1-Project description/Data for project/Pasted Image 20240903123403_912.png",
     "Untitled.md",
-    "Project description/Data for project",
-    "Project description/Data for project/Pasted Image 20240903123403_946.png",
-    "Project description/Data for project/Pasted Image 20240903123403_942.png",
-    "Project description",
+    "1-Project description/Data for project",
+    "1-Project description/Data for project/Pasted Image 20240903123403_946.png",
+    "1-Project description/Data for project/Pasted Image 20240903123403_942.png",
+    "1-Project description",
     "Excalidraw/Drawing 2024-09-02 20.51.23.excalidraw.md",
     "Untitled 1.md",
     "Untitled 2.md",
@@ -198,17 +201,11 @@
     "Obsidian Vault/Cloud Computing/AWS.md",
     "Obsidian Vault/Cloud Computing/Azure.md",
     "Obsidian Vault/Cloud Computing/Google cloud.md",
-    "Repository-project-source/README.md",
-    "Obsidian Vault/_AI_ML_/Math/Stastics.md",
-    "Obsidian Vault/_AI_ML_/python/python basics/variables and data types.md",
-    "Obsidian Vault/_AI_ML_/python/python basics/The Python interpreter.md",
     "Obsidian Vault/_AI_ML_/python/Django",
     "Operating System",
     "Obsidian Vault/Cloud Computing/Google Cloud",
     "Obsidian Vault/Cloud Computing/Azure",
     "Obsidian Vault/Cloud Computing",
-    "SIJ/Untitled",
-    "SIJ/Untitled.canvas",
-    "SIJ"
+    "SIJ/Untitled.canvas"
   ]
 }
