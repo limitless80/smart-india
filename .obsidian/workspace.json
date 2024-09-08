@@ -8,12 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c92a4098fadcd908",
+            "id": "11b9b8099761b4df",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "1-Project description/Project tracking truck.md"
+                "file": "Pytorch/pytorch-basic.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Project description/Project tracking truck.md",
+                "file": "Pytorch/pytorch-basic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Project description/Project tracking truck.md",
+                "file": "Pytorch/pytorch-basic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project description/Project tracking truck.md"
+                "file": "Pytorch/pytorch-basic.md"
               }
             }
           },
@@ -165,21 +168,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c92a4098fadcd908",
+  "active": "be36b5093c01d6b4",
   "lastOpenFiles": [
     "Pasted Image 20240905172508_189.png",
-    "1-Project description/Project tracking truck.md",
-    "conflict-files-obsidian-git.md",
+    "Pytorch/pytorch-basic.md",
+    "Pytorch",
     "Git.md",
-    "Django/Basic/Create a Project and app.md",
-    "Django/Basic",
     "Django/Basic/To create login and signup.md",
     "Django/Basic/DATAMODEL.md",
+    "Django/Basic/Create a Project and app.md",
     "Django/Basic/-DJANGO.md",
+    "1-Project description/Project tracking truck.md",
+    "conflict-files-obsidian-git.md",
+    "Django/Basic",
     "Django",
     "Project.md",
     "1-Project description/Data for project/Pasted Image 20240903123403_912.png",
-    "Untitled.md",
     "1-Project description/Data for project",
     "1-Project description/Data for project/Pasted Image 20240903123403_946.png",
     "1-Project description/Data for project/Pasted Image 20240903123403_942.png",
@@ -206,7 +210,6 @@
     "Operating System",
     "Obsidian Vault/Cloud Computing/Google Cloud",
     "Obsidian Vault/Cloud Computing/Azure",
-    "Obsidian Vault/Cloud Computing",
     "SIJ/Untitled.canvas"
   ]
 }
