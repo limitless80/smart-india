@@ -72,3 +72,9 @@
     
 - **`git rm <file>`**  
     Removes a file from the working directory and stages the removal for commit.
+
+<<<<<<< HEAD
+
+helo rakeshp
+=======
+>>>>>>> origin/commit-stage
