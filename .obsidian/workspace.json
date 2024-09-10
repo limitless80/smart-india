@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git.md",
+                "file": "Django/Basic/-Django-File-Structure.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git.md",
+                "file": "Django/Basic/-Django-File-Structure.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git.md",
+                "file": "Django/Basic/-Django-File-Structure.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git.md"
+                "file": "Django/Basic/-Django-File-Structure.md"
               }
             }
           },
@@ -168,12 +168,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5b14eedb20d493b2",
+  "active": "be36b5093c01d6b4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Git.md",
-    "1-Project description/Project tracking truck.md",
+    "Django/Basic/DATAMODEL.md",
+    "Django/Basic/Create a Project and app.md",
+    "Django/Basic/-DJANGO.md",
+    "Django/Basic/-Django-File-Structure.md",
+    "Django/Basic/To create login and signup.md",
     "Pytorch/pytorch-basic.md",
+    "PostgrSQL",
+    "AIRFLOW",
+    "Kafka",
+    "Git.md",
+    "conflict-files-obsidian-git.md",
+    "1-Project description/Project tracking truck.md",
     "Pytorch",
     "1-Project description/Data for project/data pipeline (1).png",
     "1-Project description/Data for project/Pasted Image 20240910104010_996.png",
@@ -181,14 +189,9 @@
     "1-Project description/Data for project/Pasted Image 20240903123403_946.png",
     "1-Project description/Data for project/Pasted Image 20240903123403_942.png",
     "Pasted Image 20240905172508_189.png",
-    "Django/Basic/Create a Project and app.md",
     "Django/Basic",
-    "Django/Basic/To create login and signup.md",
-    "Django/Basic/DATAMODEL.md",
-    "Django/Basic/-DJANGO.md",
     "Django",
     "Project.md",
-    "Untitled.md",
     "1-Project description/Data for project",
     "1-Project description",
     "Excalidraw/Drawing 2024-09-02 20.51.23.excalidraw.md",
@@ -208,11 +211,7 @@
     "Obsidian Vault/_AI_ML_/python/Matplotlib.md",
     "Obsidian Vault/Cloud Computing/AWS/Amazon S3.md",
     "Obsidian Vault/Cloud Computing/AWS.md",
-    "Obsidian Vault/Cloud Computing/Azure.md",
     "Obsidian Vault/_AI_ML_/python/Django",
-    "Operating System",
-    "Obsidian Vault/Cloud Computing/Google Cloud",
-    "Obsidian Vault/Cloud Computing/Azure",
     "SIJ/Untitled.canvas"
   ]
 }

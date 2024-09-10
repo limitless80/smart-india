@@ -12,4 +12,4 @@
 	- Instagram 
 	- Drop-Box
 	- Spotify   
-[Next](obsidian://open?vault=Notes&file=Obsidian%20Vault%2F_AI_ML_%2Fpython%2FDjango%2FCreate%20a%20Project%20and%20app)
+[Next](obsidian://open?vault=NIYOSURAHAME&file=Django%2FBasic%2FCreate%20a%20Project%20and%20app)
