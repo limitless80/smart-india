@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0d3f56fbaafc505",
+        "id": "5137c653a4aaf29f",
         "type": "tabs",
         "children": [
           {
-            "id": "c92a4098fadcd908",
+            "id": "5b14eedb20d493b2",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -165,10 +165,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c92a4098fadcd908",
+  "active": "be36b5093c01d6b4",
   "lastOpenFiles": [
-    "Pasted Image 20240905172508_189.png",
+    "1-Project description/Data for project/data pipeline (1).png",
     "1-Project description/Project tracking truck.md",
+    "1-Project description/Data for project/Pasted Image 20240910104010_996.png",
+    "1-Project description/Data for project/Pasted Image 20240903123403_912.png",
+    "1-Project description/Data for project/Pasted Image 20240903123403_946.png",
+    "1-Project description/Data for project/Pasted Image 20240903123403_942.png",
+    "Pasted Image 20240905172508_189.png",
     "conflict-files-obsidian-git.md",
     "Git.md",
     "Django/Basic/Create a Project and app.md",
@@ -178,11 +183,8 @@
     "Django/Basic/-DJANGO.md",
     "Django",
     "Project.md",
-    "1-Project description/Data for project/Pasted Image 20240903123403_912.png",
     "Untitled.md",
     "1-Project description/Data for project",
-    "1-Project description/Data for project/Pasted Image 20240903123403_946.png",
-    "1-Project description/Data for project/Pasted Image 20240903123403_942.png",
     "1-Project description",
     "Excalidraw/Drawing 2024-09-02 20.51.23.excalidraw.md",
     "Untitled 1.md",
