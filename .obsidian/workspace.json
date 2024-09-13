@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django/Basic/-Django-File-Structure.md",
+                "file": "DBMS/POSTGRESQL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Django/Basic/-Django-File-Structure.md",
+                "file": "DBMS/POSTGRESQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Django/Basic/-Django-File-Structure.md",
+                "file": "DBMS/POSTGRESQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Django/Basic/-Django-File-Structure.md"
+                "file": "DBMS/POSTGRESQL.md"
               }
             }
           },
@@ -168,12 +168,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "be36b5093c01d6b4",
+  "active": "5b14eedb20d493b2",
   "lastOpenFiles": [
-    "Django/Basic/DATAMODEL.md",
-    "Django/Basic/Create a Project and app.md",
     "Django/Basic/-DJANGO.md",
     "Django/Basic/-Django-File-Structure.md",
+    "DBMS/POSTGRESQL.md",
+    "DBMS",
+    "Django/Basic/DATAMODEL.md",
+    "Django/Basic/Create a Project and app.md",
     "Django/Basic/To create login and signup.md",
     "Pytorch/pytorch-basic.md",
     "PostgrSQL",
@@ -211,7 +213,6 @@
     "Obsidian Vault/_AI_ML_/python/Matplotlib.md",
     "Obsidian Vault/Cloud Computing/AWS/Amazon S3.md",
     "Obsidian Vault/Cloud Computing/AWS.md",
-    "Obsidian Vault/_AI_ML_/python/Django",
     "SIJ/Untitled.canvas"
   ]
 }
