@@ -6,10 +6,18 @@
 	- Authentication
 	- Caching
 	- Huge Community
-- 
 - Django is used by 
 	- YouTube
 	- Instagram 
 	- Drop-Box
 	- Spotify   
-[Next](obsidian://open?vault=Notes&file=Obsidian%20Vault%2F_AI_ML_%2Fpython%2FDjango%2FCreate%20a%20Project%20and%20app)
+
+Note: While creating a Django project, create a virtual env using terminal.
+```shell
+$ pip install virtualenv   #this will install the virtual environment
+$ virtualenv name-of-your-environment
+$ cd name-of-your-environment\Scripts\activate   #this will activate
+```
+
+[Next](obsidian://open?vault=NIYOSURAHAME&file=Django%2FBasic%2FCreate%20a%20Project%20and%20app)
+ 

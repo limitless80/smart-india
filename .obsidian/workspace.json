@@ -1,38 +1,40 @@
 {
   "main": {
-    "id": "a219268cbd142c20",
+    "id": "6abef13add9dcb7f",
     "type": "split",
     "children": [
       {
-        "id": "e0d3f56fbaafc505",
+        "id": "54ba846c140d5a62",
         "type": "tabs",
         "children": [
           {
-            "id": "c92a4098fadcd908",
+            "id": "1c61d569c2ea9834",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "1-Project description/Project tracking truck.md"
+                "file": "1-Project description/Project tracking truck.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "e8a4e87aa2bdbc4f",
+    "id": "d2312f5e9f1f57ab",
     "type": "split",
     "children": [
       {
-        "id": "9063fd808d5424f9",
+        "id": "1945cda2c6fe5609",
         "type": "tabs",
         "children": [
           {
-            "id": "be36b5093c01d6b4",
+            "id": "d5d545263a99cadd",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -42,7 +44,7 @@
             }
           },
           {
-            "id": "9dc1e551ab553bd2",
+            "id": "fb739b0d24cfe468",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -57,7 +59,7 @@
             }
           },
           {
-            "id": "c45ab7e156345b75",
+            "id": "ffd010e02cf04080",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -71,15 +73,23 @@
     "width": 300
   },
   "right": {
-    "id": "381dbecaba8c0066",
+    "id": "11f8258cfdd6b714",
     "type": "split",
     "children": [
       {
-        "id": "dda923309f9ec816",
+        "id": "fc0656e3ac0284bb",
         "type": "tabs",
         "children": [
           {
-            "id": "eea05073cb2f11c4",
+            "id": "49a171ac1ae64454",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "36fba408cc3e5e7e",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -96,7 +106,7 @@
             }
           },
           {
-            "id": "5792103c037536bf",
+            "id": "18a2c1dc69ee13c2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -108,7 +118,7 @@
             }
           },
           {
-            "id": "d52460e7e0b94f0a",
+            "id": "7658f3c12900f6d1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -119,7 +129,7 @@
             }
           },
           {
-            "id": "ad2ccfbc14f7d73a",
+            "id": "866a00b54c3f720f",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -127,86 +137,36 @@
                 "file": "1-Project description/Project tracking truck.md"
               }
             }
-          },
-          {
-            "id": "5ab90213b8e1bd0b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "ba259c370843a427",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "c92a4098fadcd908",
+  "active": "1c61d569c2ea9834",
   "lastOpenFiles": [
-    "Pasted Image 20240905172508_189.png",
-    "1-Project description/Project tracking truck.md",
-    "conflict-files-obsidian-git.md",
-    "Git.md",
-    "Django/Basic/Create a Project and app.md",
-    "Django/Basic",
-    "Django/Basic/To create login and signup.md",
-    "Django/Basic/DATAMODEL.md",
-    "Django/Basic/-DJANGO.md",
-    "Django",
-    "Project.md",
-    "1-Project description/Data for project/Pasted Image 20240903123403_912.png",
-    "Untitled.md",
-    "1-Project description/Data for project",
     "1-Project description/Data for project/Pasted Image 20240903123403_946.png",
     "1-Project description/Data for project/Pasted Image 20240903123403_942.png",
-    "1-Project description",
-    "Excalidraw/Drawing 2024-09-02 20.51.23.excalidraw.md",
-    "Untitled 1.md",
-    "Untitled 2.md",
-    "Untitled.canvas",
-    "The problem statement/The problem statement.md",
-    "Welcome.md",
-    "The problem statement",
-    "Obsidian Vault/_AI_ML_/python/Django/DATAMODEL.md",
-    "Obsidian Vault/_AI_ML_/python/Django/Create a Project and app.md",
-    "Obsidian Vault/_AI_ML_/python/Django/-DJANGO.md",
-    "Obsidian Vault/_AI_ML_/python/Django/To create login and signup.md",
-    "_train-model.md",
-    "Obsidian Vault/_AI_ML_/AML.md",
-    "READ ME.md",
-    "Obsidian Vault/_AI_ML_/python/Matplotlib.md",
-    "Obsidian Vault/Cloud Computing/AWS/Amazon S3.md",
-    "Obsidian Vault/Cloud Computing/AWS.md",
-    "Obsidian Vault/Cloud Computing/Azure.md",
-    "Obsidian Vault/_AI_ML_/python/Django",
-    "Operating System",
-    "Obsidian Vault/Cloud Computing/Google Cloud",
-    "Obsidian Vault/Cloud Computing/Azure",
-    "Obsidian Vault/Cloud Computing",
-    "SIJ/Untitled.canvas"
+    "1-Project description/Data for project/Pasted Image 20240903123403_912.png",
+    "1-Project description/Project tracking truck.md",
+    "PostgreSQL/PostgreSQL.md",
+    "Django/Basic/-DJANGO.md",
+    "PostgreSQL/PostgrSQL/PostgrSQL.md",
+    "PostgreSQL"
   ]
 }
