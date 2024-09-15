@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1-Project description/Project tracking truck.md",
+                "file": "DBMS/How to install PostgreSQL/How to install PostgreSQL.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Project description/Project tracking truck.md",
+                "file": "DBMS/How to install PostgreSQL/How to install PostgreSQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Project description/Project tracking truck.md",
+                "file": "DBMS/How to install PostgreSQL/How to install PostgreSQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project description/Project tracking truck.md"
+                "file": "DBMS/How to install PostgreSQL/How to install PostgreSQL.md"
               }
             }
           }
@@ -160,13 +160,31 @@
   },
   "active": "1c61d569c2ea9834",
   "lastOpenFiles": [
+    "Pytorch/pytorch-basic.md",
+    "Kafka/Kafka.md",
+    "DBMS/How to install PostgreSQL/How to install PostgreSQL.md",
+    "DBMS/POSTGRESQL.md",
+    "Untitled",
+    "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md",
+    "1-Project description/Data for project/Pasted Image 20240915111805_487.png",
+    "1-Project description/Data for project/Pasted Image 20240903123403_912.png",
+    "1-Project description/Data for project/Pasted Image 20240915111805_500.png",
+    "1-Project description/Data for project/Pasted Image 20240915111805_493.png",
+    "Excalidraw",
+    "Excalidraw/Drawing 2024-09-15 11.16.54.excalidraw.md",
+    "Excalidraw/Drawing 2024-09-15 11.10.52.excalidraw.md",
+    "Untitled.md",
+    "Pasted Image 20240915111604_260.png",
+    "Pasted Image 20240915111604_248.png",
+    "Pasted Image 20240915111604_207.png",
+    "1-Project description/Data for project/Pasted Image 20240910104010_996.png",
     "1-Project description/Data for project/Pasted Image 20240903123403_946.png",
     "1-Project description/Data for project/Pasted Image 20240903123403_942.png",
-    "1-Project description/Data for project/Pasted Image 20240903123403_912.png",
     "1-Project description/Project tracking truck.md",
-    "PostgreSQL/PostgreSQL.md",
+    "1-Project description/Unconfirmed 75567.crdownload",
+    "1-Project description/Unconfirmed 601900.crdownload",
     "Django/Basic/-DJANGO.md",
     "PostgreSQL/PostgrSQL/PostgrSQL.md",
-    "PostgreSQL"
+    "DBMS/How to install PostgreSQL"
   ]
 }
