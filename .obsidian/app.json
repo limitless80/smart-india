@@ -1,4 +1,5 @@
 {
   "defaultViewMode": "source",
-  "showIndentGuide": false
+  "showIndentGuide": false,
+  "promptDelete": false
 }

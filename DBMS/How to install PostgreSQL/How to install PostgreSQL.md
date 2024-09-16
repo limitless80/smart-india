@@ -41,3 +41,16 @@
     - Right-click on the database you created and select **Properties**.
     - Go to the **Privileges** tab.
     - Add the new user and grant the required privileges (e.g., all privileges)
+
+
+
+
+
+<h6>Error note</h6>
+<p>So when the user try to open the pgadmin4 from apps they may encounter the error like 
+pgadmin cannot be contacted </p>
+<p>To solve this just got to</p>
+**C:\Users\%User_name%\AppData\Roaming\pgAdmin**  in your file.
+<p>in this delete <h7>pgadmin4.db</h7> file which is causing the conflict it help solve your problem</p>
+
+[Next](obsidian://open?vault=NIYOSURAHAME&file=DBMS%2FHow%20to%20install%20PostgreSQL%2FHow%20to%20link%20the%20postgresql%20with%20Django)
