@@ -11,12 +11,9 @@
             "id": "cfe343b73e3d8eee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "DBMS/How to install PostgreSQL/How to link the postgresql with Django.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
+                "file": "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md"
               }
             }
           }
@@ -70,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "11f8258cfdd6b714",
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/How to install PostgreSQL/How to link the postgresql with Django.md",
+                "file": "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS/How to install PostgreSQL/How to link the postgresql with Django.md",
+                "file": "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/How to install PostgreSQL/How to link the postgresql with Django.md"
+                "file": "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md"
               }
             }
           }
@@ -160,11 +158,11 @@
   },
   "active": "cfe343b73e3d8eee",
   "lastOpenFiles": [
+    "DBMS/How to install PostgreSQL/How to link the postgresql with Django.md",
     "Django/Basic/Create a Project and app.md",
     "Django/Basic/-DJANGO.md",
     "Django/Basic/DATAMODEL.md",
     "Pytorch/pytorch-basic.md",
-    "DBMS/How to install PostgreSQL/How to link the postgresql with Django.md",
     "DBMS/How to install PostgreSQL/How to install PostgreSQL.md",
     "Kafka/Kafka.md",
     "Django/Basic/-Django-File-Structure.md",
