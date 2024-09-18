@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "54ba846c140d5a62",
+        "id": "422d2b7de6add5d0",
         "type": "tabs",
         "children": [
           {
-            "id": "1c61d569c2ea9834",
+            "id": "4624de751b525482",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md"
+                "file": "Git.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -91,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md",
+                "file": "Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md",
+                "file": "Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,16 +134,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md"
+                "file": "Git.md"
               }
             }
+          },
+          {
+            "id": "bee6af76730d59d0",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,9 +166,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1c61d569c2ea9834",
+  "active": "d5d545263a99cadd",
   "lastOpenFiles": [
+    "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md",
     "Kafka/Kafka.md",
+    "Git.md",
     "Django/Basic/-DJANGO.md",
     "Django/Basic/-Django-File-Structure.md",
     "Django/Basic/Create a Project and app.md",
@@ -165,7 +178,6 @@
     "Pytorch/pytorch-basic.md",
     "DBMS/POSTGRESQL.md",
     "Untitled",
-    "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md",
     "1-Project description/Data for project/Pasted Image 20240915111805_487.png",
     "1-Project description/Data for project/Pasted Image 20240903123403_912.png",
     "1-Project description/Data for project/Pasted Image 20240915111805_500.png",
