@@ -11,12 +11,9 @@
             "id": "1c61d569c2ea9834",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "DBMS/How to install PostgreSQL/How to install PostgreSQL.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md"
               }
             }
           }
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DBMS/How to install PostgreSQL/How to install PostgreSQL.md",
+                "file": "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DBMS/How to install PostgreSQL/How to install PostgreSQL.md",
+                "file": "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DBMS/How to install PostgreSQL/How to install PostgreSQL.md"
+                "file": "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md"
               }
             }
           }
@@ -160,9 +157,12 @@
   },
   "active": "1c61d569c2ea9834",
   "lastOpenFiles": [
-    "Pytorch/pytorch-basic.md",
     "Kafka/Kafka.md",
+    "Django/Basic/-DJANGO.md",
+    "Django/Basic/-Django-File-Structure.md",
+    "Django/Basic/Create a Project and app.md",
     "DBMS/How to install PostgreSQL/How to install PostgreSQL.md",
+    "Pytorch/pytorch-basic.md",
     "DBMS/POSTGRESQL.md",
     "Untitled",
     "1-Project description/Drawing 2024-09-15 11.17.45.excalidraw.md",
@@ -183,7 +183,6 @@
     "1-Project description/Project tracking truck.md",
     "1-Project description/Unconfirmed 75567.crdownload",
     "1-Project description/Unconfirmed 601900.crdownload",
-    "Django/Basic/-DJANGO.md",
     "PostgreSQL/PostgrSQL/PostgrSQL.md",
     "DBMS/How to install PostgreSQL"
   ]
